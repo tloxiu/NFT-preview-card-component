@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 ## Overview
 
@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [[https://nft-preview-card-component-six-beta.vercel.app/](https://nft-preview-card-component-six-beta.vercel.app/)]
+- Live Site URL: [(https://nft-preview-card-component-six-beta.vercel.app/)](https://nft-preview-card-component-six-beta.vercel.app/)
 
 
 ## Built with
